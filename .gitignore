@@ -1,0 +1,7 @@
+datasets/
+spark/
+spark-*
+*.log
+*.png
+*.err
+*.pyc
